@@ -1,0 +1,3 @@
+G,Point Latency,Time Received,Time Captured,MPH,Address,I0,Engine On,I1,I2,I3,I4,I5,GPS,Event Code,Sat,HDOP,RSSI,C,F,Seq,Index,Lat, Lon,Triggered By,? Odo hm,? Eng min
+LA,44 secs,2020-02-14 4:49.02pm,2020-02-14 4:48.18pm,3,300 Cash Memorial Blvd Forest Park GA 30297,+,+,-,-,-,-,-,3,2,11,1,-82,0,0,7137,Serial,33.608828,-84.3795246,Stopped Moving,0,1
+LA,4 secs,2020-02-14 12:23.15pm,2020-02-14 12:23.11pm,6,Old Dixie Hwy [Us-19/Us-41/Ga-3] Forest Park GA 30297,+,+,-,-,-,-,-,3,5,14,0.6,-47,0,0,6942,Serial,33.5982627,-84.3785938,Started Moving,0,1
